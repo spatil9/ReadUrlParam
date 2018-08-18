@@ -1,0 +1,15 @@
+{
+  "name": "read-url-param",
+  "version": "1.0.3",
+  "description": "Package to read URL query parameters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Query",
+    "URL"
+  ],
+  "author": "Sujith Patil",
+  "license": "ISC"
+}
